@@ -1,0 +1,38 @@
+.nav-bar{
+    background-color: #372a2a;
+}
+
+.background-all{
+    background-color: #ee520a;
+}
+
+.nav-bar ul li{
+    display: inline;
+    color: white;
+    padding: 50px;
+    font-size: 17px;
+}
+
+.search-bar{
+    background-color: #ee520a;
+    margin-top: 0;
+}
+
+.search-bar input{
+    margin-left: 85%;
+}
+
+.body img{
+    margin-left: -130%;
+    vertical-align: top;
+    margin-top: -220px;
+    border: solid 1px white;
+}
+
+.text-part{
+    background-color: #ee520a;
+    margin-left: 50%;
+    margin-right: 20%;
+    margin-top: 70px;
+    color: white;
+}
